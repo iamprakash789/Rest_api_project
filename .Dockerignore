@@ -1,0 +1,17 @@
+##This is used because when we run docker command or image .It will ignored.
+#git
+.git
+.gitignore
+
+#docker
+.docker
+
+#python
+
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/__pycache__/
+.env/
+.venv/
+venv/
